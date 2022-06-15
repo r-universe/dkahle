@@ -1,0 +1,26 @@
+[
+  {
+    "package": "chi",
+    "oncran": true
+  },
+  {
+    "package": "ggmap",
+    "oncran": true
+  },
+  {
+    "package": "invgamma",
+    "oncran": true
+  },
+  {
+    "package": "latte",
+    "oncran": true
+  },
+  {
+    "package": "mpoly",
+    "oncran": true
+  },
+  {
+    "package": "poisDoubleSamp",
+    "oncran": true
+  }
+]
