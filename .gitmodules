@@ -33,3 +33,8 @@
 	url = https://github.com/dkahle/poisdoublesamp
 	shallow = true
 	registered = true
+[submodule "TITAN2"]
+	path = TITAN2
+	url = https://github.com/dkahle/titan2
+	shallow = true
+	registered = true

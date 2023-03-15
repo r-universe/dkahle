@@ -22,5 +22,9 @@
   {
     "package": "poisDoubleSamp",
     "oncran": true
+  },
+  {
+    "package": "TITAN2",
+    "oncran": true
   }
 ]
