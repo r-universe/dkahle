@@ -4,15 +4,7 @@
     "oncran": true
   },
   {
-    "package": "ggmap",
-    "oncran": true
-  },
-  {
     "package": "invgamma",
-    "oncran": true
-  },
-  {
-    "package": "latte",
     "oncran": true
   },
   {
@@ -21,6 +13,14 @@
   },
   {
     "package": "poisDoubleSamp",
+    "oncran": true
+  },
+  {
+    "package": "ggmap",
+    "oncran": true
+  },
+  {
+    "package": "latte",
     "oncran": true
   }
 ]
