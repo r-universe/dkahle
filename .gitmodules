@@ -8,9 +8,19 @@
 	url = https://github.com/dkahle/chi
 	shallow = true
 	registered = true
+[submodule "ggmap"]
+	path = ggmap
+	url = https://github.com/dkahle/ggmap
+	shallow = true
+	registered = true
 [submodule "invgamma"]
 	path = invgamma
 	url = https://github.com/dkahle/invgamma
+	shallow = true
+	registered = true
+[submodule "latte"]
+	path = latte
+	url = https://github.com/dkahle/latte
 	shallow = true
 	registered = true
 [submodule "mpoly"]
@@ -21,15 +31,5 @@
 [submodule "poisDoubleSamp"]
 	path = poisDoubleSamp
 	url = https://github.com/dkahle/poisdoublesamp
-	shallow = true
-	registered = true
-[submodule "ggmap"]
-	path = ggmap
-	url = https://github.com/dkahle/ggmap
-	shallow = true
-	registered = true
-[submodule "latte"]
-	path = latte
-	url = https://github.com/dkahle/latte
 	shallow = true
 	registered = true
