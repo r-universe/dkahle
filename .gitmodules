@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "chi"]
 	path = chi
 	url = https://github.com/dkahle/chi
-	shallow = true
-	registered = true
 [submodule "ggmap"]
 	path = ggmap
 	url = https://github.com/dkahle/ggmap
-	shallow = true
-	registered = true
 [submodule "invgamma"]
 	path = invgamma
 	url = https://github.com/dkahle/invgamma
-	shallow = true
-	registered = true
 [submodule "latte"]
 	path = latte
 	url = https://github.com/dkahle/latte
-	shallow = true
-	registered = true
 [submodule "mpoly"]
 	path = mpoly
 	url = https://github.com/dkahle/mpoly
-	shallow = true
-	registered = true
 [submodule "poisDoubleSamp"]
 	path = poisDoubleSamp
 	url = https://github.com/dkahle/poisdoublesamp
-	shallow = true
-	registered = true
 [submodule "TITAN2"]
 	path = TITAN2
 	url = https://github.com/dkahle/titan2
-	shallow = true
-	registered = true
