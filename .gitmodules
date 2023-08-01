@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TITAN2"]
+	path = TITAN2
+	url = https://github.com/dkahle/titan2
 [submodule "chi"]
 	path = chi
 	url = https://github.com/dkahle/chi
@@ -20,6 +23,3 @@
 [submodule "poisDoubleSamp"]
 	path = poisDoubleSamp
 	url = https://github.com/dkahle/poisdoublesamp
-[submodule "TITAN2"]
-	path = TITAN2
-	url = https://github.com/dkahle/titan2
