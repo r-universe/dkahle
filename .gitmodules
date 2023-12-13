@@ -23,3 +23,6 @@
 [submodule "poisDoubleSamp"]
 	path = poisDoubleSamp
 	url = https://github.com/dkahle/poisdoublesamp
+[submodule "unmconf"]
+	path = unmconf
+	url = https://github.com/cran/unmconf
